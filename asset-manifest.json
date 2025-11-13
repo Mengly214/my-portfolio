@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mengly214/my-portfolio.git/static/css/main.32f913b6.css",
+    "main.js": "/Mengly214/my-portfolio.git/static/js/main.49fd19ff.js",
+    "static/js/453.3bb010dc.chunk.js": "/Mengly214/my-portfolio.git/static/js/453.3bb010dc.chunk.js",
+    "index.html": "/Mengly214/my-portfolio.git/index.html",
+    "main.32f913b6.css.map": "/Mengly214/my-portfolio.git/static/css/main.32f913b6.css.map",
+    "main.49fd19ff.js.map": "/Mengly214/my-portfolio.git/static/js/main.49fd19ff.js.map",
+    "453.3bb010dc.chunk.js.map": "/Mengly214/my-portfolio.git/static/js/453.3bb010dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32f913b6.css",
+    "static/js/main.49fd19ff.js"
+  ]
+}
